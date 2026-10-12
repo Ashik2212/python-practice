@@ -68,7 +68,7 @@ python-practice/
 
 ## 👨‍💻 Author
 
-**Ashik Z.**
+**Ashik Z**
 
 GitHub: [Ashik2212](https://github.com/Ashik2212)
 
